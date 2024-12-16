@@ -28,6 +28,7 @@ gRPC는 구글 주도 하에 기존 RPC를 더 빠르고 효율적으로 만든 
 2. 'client' 폴더가 위치에서 './client' 명령어를 입력하여 client_1을 활성화시킵니다.
 3. 'client' 폴더가 위치에서 './client' 명령어를 입력하여 client_2을 활성화시킵니다.  
 +) 채팅 작업이므로 적어도 2명의 클라이언트가 존재해야 합니다. 따라서 2번&3번 과정 모두 필요합니다.
+4. client_1과 client_2에 원하는 채팅 내용을 입력함으로써 정상적으로 동작하는지 확인합니다.
 
 ### 코드 실행 결과
 ![image](https://github.com/user-attachments/assets/8516a58f-ac58-4de7-9442-5272fd2964c2)
